@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FirstApp</string>
+    <!--Reference to hello world -->
+    <string name="hello">Hello World!</string>
+    <string-array name="operations">
+        <item>none</item>
+        <item>*</item>
+        <item>/</item>
+    </string-array>
+</resources>
